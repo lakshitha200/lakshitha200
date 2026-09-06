@@ -1,27 +1,161 @@
-<h1 align="center">Hi 👋, I'm Lakshitha Fernando</h1>
-<h3 align="center">A passionate full stack development from Sri Lanka</h3>
+<h1 align="center">Hi, I'm Lakshitha Fernando 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshitha200&label=Profile%20views&color=0e75b6&style=flat" alt="lakshitha200" /> </p>
+<h3 align="center">
+  Software Engineer • Full-Stack Developer • Backend & GenAI Enthusiast
+</h3>
 
-
-- 🌱 I’m currently learning **Spring boot Microservices**
-
-- 📝 I regularly write articles on [https://medium.com/@Lakshitha_Fernando](https://medium.com/@Lakshitha_Fernando)
-
-- 📫 How to reach me **lakshithaf20@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://medium.com/@lakshitha_fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@lakshitha_fernando" height="30" width="40" /></a>
+<p align="center">
+  Building scalable backend systems, modern web applications, microservices,
+  and AI-powered products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="mailto:lakshithaf20@gmail.com">Email</a> •
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshitha200&show_icons=true&locale=en&layout=compact" alt="lakshitha200" /></p>
+---
 
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshitha200&" alt="lakshitha200" /></p>
+I'm a Software Engineer focused on building **reliable, scalable, and maintainable software**.
 
+My experience spans backend and full-stack development across
+**ERP, digital health, mobile, and AI-powered platforms**.
+
+- ☕ Building backend systems with **Java & Spring Boot**
+- ⚡ Developing full-stack applications with **NestJS, Next.js & React**
+- 🏗️ Exploring **Microservices & Event-Driven Architecture**
+- 🤖 Building **RAG, LLM and Multimodal AI applications**
+- ☁️ Working with **AWS, Docker & CI/CD**
+- 📱 Building cross-platform applications with **React Native & Expo**
+- 📚 Continuously improving my knowledge of **system design, cloud and GenAI**
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,ts" />
+</p>
+
+### Frontend & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" />
+</p>
+
+**React Native • Expo**
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,bitbucket" />
+</p>
+
+**CI/CD • Kafka • GitHub Actions • Bitbucket Pipelines**
+
+### AI / GenAI
+
+`RAG` • `Multimodal RAG` • `LLM APIs` • `Vector Databases`  
+`Gemini` • `OpenAI` • `Embeddings` • `OCR` • `Vision`
+
+---
+
+## 🚀 Featured Projects
+
+### 🌴 ExploreLK
+
+**Travel Planning & Experience Booking Platform**
+
+Spring Boot microservices platform for destination discovery, trip planning,
+itinerary generation, and experience booking.
+
+**Highlights**
+
+- Microservices architecture
+- API Gateway
+- JWT & RBAC
+- Kafka event-driven workflows
+- Redis caching
+- Database-per-service architecture
+- Dockerized services
+- Resilience & automated testing
+
+**Tech**
+
+`Java` `Spring Boot` `PostgreSQL` `Kafka` `Redis` `Docker` `Microservices`
+
+🔗 **[View Repository](YOUR_EXPLORELK_REPO)**
+
+---
+
+### 🧠 ContextHub AI
+
+**Multi-Tenant Multimodal RAG Knowledge Platform**
+
+AI-powered knowledge platform that allows users to upload documents and
+interact with their knowledge through contextual conversations.
+
+**Highlights**
+
+- Automated document ingestion
+- Multimodal document processing
+- Gemini embeddings & OCR
+- PostgreSQL + pgvector semantic search
+- SSE streamed AI responses
+- Source citations
+- Multi-tenant RBAC
+- RAG-based document Q&A
+
+**Tech**
+
+`NestJS` `Next.js` `TypeScript` `PostgreSQL` `Prisma` `pgvector` `Gemini` `Docker`
+
+🔗 **[Live Demo](YOUR_CONTEXTHUB_URL)**  
+🔗 **[View Repository](YOUR_CONTEXTHUB_REPO)**
+
+---
+
+### 🛒 Shopping Cart Microservices
+
+**Microservices E-Commerce Platform**
+
+Spring Boot based distributed e-commerce backend designed around
+independent services and asynchronous communication.
+
+**Highlights**
+
+- API Gateway
+- Service discovery
+- Centralized configuration
+- Kafka asynchronous messaging
+- Database-per-service
+- Resilience4j fault tolerance
+- Dockerized services
+
+**Tech**
+
+`Java` `Spring Boot` `Spring Cloud` `Kafka` `Resilience4j` `MySQL` `MongoDB` `Docker`
+
+🔗 **[View Repository](YOUR_SHOPPING_CART_REPO)**
+
+---
+
+## 💼 Professional Focus
+
+```text
+Backend Engineering      ███████████████████░
+Full-Stack Development   ██████████████████░░
+Microservices            █████████████████░░░
+Cloud & DevOps           ███████████████░░░░░
+GenAI / RAG              █████████████████░░░
