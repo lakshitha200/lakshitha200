@@ -1,36 +1,35 @@
-<h1 align="center">Hi, I'm Lakshitha Fernando 👋</h1>
+<h1 align="center">Hi 👋, I'm Lakshitha Fernando</h1>
 
 <h3 align="center">
-  Software Engineer • Full-Stack Developer • Backend & GenAI Enthusiast
+  Software Engineer | Java & Spring Boot | Full-Stack | GenAI
 </h3>
 
 <p align="center">
-  Building scalable backend systems, modern web applications, microservices,
-  and AI-powered products.
+  Building scalable backend systems, modern web applications,
+  microservices and AI-powered software.
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="mailto:lakshithaf20@gmail.com">Email</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+  <a href="https://www.linkedin.com/in/lakshitha-fernando-074245253/">LinkedIn</a>
+  •
+  <a href="https://medium.com/@Lakshitha_Fernando">Medium</a>
+  •
+  <a href="mailto:lakshithaf20@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer focused on building **reliable, scalable, and maintainable software**.
-
-My experience spans backend and full-stack development across
-**ERP, digital health, mobile, and AI-powered platforms**.
+I'm a Software Engineer focused on building reliable, scalable and maintainable applications across backend, full-stack and AI-powered systems.
 
 - ☕ Building backend systems with **Java & Spring Boot**
 - ⚡ Developing full-stack applications with **NestJS, Next.js & React**
-- 🏗️ Exploring **Microservices & Event-Driven Architecture**
+- 🏗️ Working with **Microservices & Event-Driven Architecture**
 - 🤖 Building **RAG, LLM and Multimodal AI applications**
 - ☁️ Working with **AWS, Docker & CI/CD**
-- 📱 Building cross-platform applications with **React Native & Expo**
-- 📚 Continuously improving my knowledge of **system design, cloud and GenAI**
+- 📱 Building mobile applications with **React Native & Expo**
+- 📚 Learning more about **System Design, Cloud and GenAI**
 
 ---
 
@@ -48,7 +47,7 @@ My experience spans backend and full-stack development across
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind" />
 </p>
 
-**React Native • Expo**
+`React Native` • `Expo`
 
 ### Databases
 
@@ -62,7 +61,7 @@ My experience spans backend and full-stack development across
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,bitbucket" />
 </p>
 
-**CI/CD • Kafka • GitHub Actions • Bitbucket Pipelines**
+`CI/CD` • `Kafka` • `GitHub Actions` • `Bitbucket Pipelines`
 
 ### AI / GenAI
 
@@ -77,8 +76,8 @@ My experience spans backend and full-stack development across
 
 **Travel Planning & Experience Booking Platform**
 
-Spring Boot microservices platform for destination discovery, trip planning,
-itinerary generation, and experience booking.
+A Spring Boot microservices platform for destination discovery, trip planning,
+itinerary generation and experience booking.
 
 **Highlights**
 
@@ -89,13 +88,13 @@ itinerary generation, and experience booking.
 - Redis caching
 - Database-per-service architecture
 - Dockerized services
-- Resilience & automated testing
+- Automated testing
 
 **Tech**
 
 `Java` `Spring Boot` `PostgreSQL` `Kafka` `Redis` `Docker` `Microservices`
 
-🔗 **[View Repository](YOUR_EXPLORELK_REPO)**
+🔗 **[View Repository](YOUR_EXPLORELK_REPOSITORY_URL)**
 
 ---
 
@@ -103,8 +102,8 @@ itinerary generation, and experience booking.
 
 **Multi-Tenant Multimodal RAG Knowledge Platform**
 
-AI-powered knowledge platform that allows users to upload documents and
-interact with their knowledge through contextual conversations.
+AI-powered knowledge platform for document ingestion, semantic retrieval
+and contextual document conversations.
 
 **Highlights**
 
@@ -112,17 +111,16 @@ interact with their knowledge through contextual conversations.
 - Multimodal document processing
 - Gemini embeddings & OCR
 - PostgreSQL + pgvector semantic search
-- SSE streamed AI responses
+- SSE streamed responses
 - Source citations
 - Multi-tenant RBAC
-- RAG-based document Q&A
+- Document Q&A using RAG
 
 **Tech**
 
 `NestJS` `Next.js` `TypeScript` `PostgreSQL` `Prisma` `pgvector` `Gemini` `Docker`
 
-🔗 **[Live Demo](YOUR_CONTEXTHUB_URL)**  
-🔗 **[View Repository](YOUR_CONTEXTHUB_REPO)**
+🔗 **[View Repository](YOUR_CONTEXTHUB_REPOSITORY_URL)**
 
 ---
 
@@ -130,14 +128,14 @@ interact with their knowledge through contextual conversations.
 
 **Microservices E-Commerce Platform**
 
-Spring Boot based distributed e-commerce backend designed around
-independent services and asynchronous communication.
+A Spring Boot distributed e-commerce system built around independent
+services and asynchronous communication.
 
 **Highlights**
 
 - API Gateway
-- Service discovery
-- Centralized configuration
+- Service Discovery
+- Centralized Configuration
 - Kafka asynchronous messaging
 - Database-per-service
 - Resilience4j fault tolerance
@@ -145,17 +143,85 @@ independent services and asynchronous communication.
 
 **Tech**
 
-`Java` `Spring Boot` `Spring Cloud` `Kafka` `Resilience4j` `MySQL` `MongoDB` `Docker`
+`Java` `Spring Boot` `Spring Cloud` `Kafka` `Resilience4j`
+`MySQL` `MongoDB` `Docker`
 
-🔗 **[View Repository](YOUR_SHOPPING_CART_REPO)**
+🔗 **[View Repository](YOUR_SHOPPING_CART_REPOSITORY_URL)**
 
 ---
 
-## 💼 Professional Focus
+## 📊 GitHub Stats
 
-```text
-Backend Engineering      ███████████████████░
-Full-Stack Development   ██████████████████░░
-Microservices            █████████████████░░░
-Cloud & DevOps           ███████████████░░░░░
-GenAI / RAG              █████████████████░░░
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    height="165"
+  />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+## ✍️ Writing
+
+I also write about software engineering, backend development,
+cloud and AI.
+
+📖 **Medium:**  
+https://medium.com/@Lakshitha_Fernando
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in opportunities involving:
+
+**Java / Spring Boot • Backend Engineering • Full-Stack Development •  
+Microservices • Cloud • GenAI / RAG**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshitha-fernando-074245253/">
+    LinkedIn
+  </a>
+  •
+  <a href="https://medium.com/@Lakshitha_Fernando">
+    Medium
+  </a>
+  •
+  <a href="mailto:lakshithaf20@gmail.com">
+    Email
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building software. Learning continuously. Solving real-world problems.</i>
+</p>
